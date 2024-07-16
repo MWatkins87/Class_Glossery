@@ -366,7 +366,7 @@ Common commands
 [Chapter 16 home page](https://git.bootcampcontent.com/University-of-Denver/DU-VIRT-AI-PT-02-2024-U-LOLC/-/tree/main/16-Project2?ref_type=heads)
 
 # Chapter 17 Project 2 continued
-[Project 2 Group 2, House of Hope]()
+[Project 2 Group 2, House of Hope](https://github.com/MWatkins87/Project-2-Group-2)
 
 # Chapter 18 Neural-Networks-Deep-Learning-1
 ## Day 1
